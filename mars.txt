@@ -3,3 +3,5 @@ Cold and dry, but everything is red
 The two moons may be a problem for Wolfman
 
 Consider Venus as base
+
+This line was added to the file in my (shane's) version of the repo
